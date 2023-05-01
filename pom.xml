@@ -10,7 +10,7 @@
 
     <properties>
         <spring>2.2.6.RELEASE</spring>
-        <testng>7.1.0</testng>
+        <testng>7.7.0</testng>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
